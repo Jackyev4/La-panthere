@@ -54,6 +54,8 @@ a:hover {
 
 .bloc-sm {
     padding: 20px 50px;
+    width: 10px;
+    height: 50px;
 }
 
 .bg-center,
