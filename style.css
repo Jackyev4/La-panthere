@@ -786,8 +786,8 @@ h4 {
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
-    color: #FFFFFF!important;
+    background: #c27956!important; 
+    /*Regarder les bonnes pratiques sur hover*/
 }
 
 .ltc-white {
