@@ -301,8 +301,9 @@ a:hover {
 }
 
 .nav>li {
+    background-color: #000;
     margin-top: 4px;
-    font-size: 16px
+    font-size: 18px
 }
 
 .navbar-nav .open .dropdown-menu>li>a {
